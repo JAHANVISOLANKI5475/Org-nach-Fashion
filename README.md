@@ -24,9 +24,6 @@ The road to sustainable cotton is not easy. The recent developments in the cotto
 * Back-end software tools stack 
 The back-end tech stack ensures the inner workings of an application and website. 
 Programming languages (JavaScript) 
-Frameworks (NodeJS) 
-Databases (MongoDB and MySQL) 
-Server providers (Netlify) 
 * Front end stacks 
 The front-end technology stack is what users see when they interact with our application or site. 
 Tech stack for the front end or client-side of web software includes HTML, CSS, and JavaScript. 
