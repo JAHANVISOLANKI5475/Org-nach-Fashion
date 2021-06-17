@@ -12,7 +12,7 @@ The road to sustainable cotton is not easy. The recent developments in the cotto
 # Demo video
 
 
-# Working (How does your idea works?) – 
+# Working (How does your idea works?)
 • Step 1: Create a Login Page which will ask the user for personal information for our database. 
 • Step 2: Create a Home Page which will briefly explain about our App.
 • Step 3: 4-5 Individual Pages for a specific disease and will contains symptoms, exercises and other treatments. 
