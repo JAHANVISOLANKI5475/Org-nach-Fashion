@@ -9,7 +9,7 @@ Organic cotton has proven benefits and nothing can beat its claim for sustainabi
 The road to sustainable cotton is not easy. The recent developments in the cotton industry and shift made by the apparel companies towards organic cotton ensure that by making a sustainable choice, the coming generation will get a sustainable environment to live. 
 
 # Demo video
-
+https://youtu.be/_8WUcaHConE
 
 # RoadMap (How does your idea works?)
 * Step 1: Create a Login Page which will ask the user for personal information for our database. 
