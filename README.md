@@ -20,8 +20,8 @@ The road to sustainable cotton is not easy. The recent developments in the cotto
 
 
 # Built with
-** Tech Stack ** 
-** Technology – Web Development **
+**Tech Stack** 
+**Technology – Web Development**
 * Back-end software tools stack 
 The back-end tech stack ensures the inner workings of an application and website. 
 Programming languages (JavaScript) 
