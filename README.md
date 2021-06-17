@@ -8,7 +8,6 @@ The demand for organic cotton is high in Europe, U.S., UK and Japan even after t
 Organic cotton has proven benefits and nothing can beat its claim for sustainability. Farmers, who shift to organic cotton farming, not only make their lives healthy but also benefit the ecosystem. As it eliminates the use of pesticides and fertilizers, organic cotton prevents contamination of groundwater, thus making drinking water clean and safe. It has been found that the impact of water pollution of organic cotton is 98% less compared to the conventional cotton production. It prevents pests for a long time through advantageous habitat planting. It preserves biodiversity by eliminating the use of toxic chemicals and insecticides on cotton. Organic cotton farming also contributes to the fight against global warming. 
 The road to sustainable cotton is not easy. The recent developments in the cotton industry and shift made by the apparel companies towards organic cotton ensure that by making a sustainable choice, the coming generation will get a sustainable environment to live. 
 
-
 # Demo video
 
 
@@ -35,3 +34,7 @@ HTML technology is responsible for the structuring and placement of the data.
 CSS-It includes colors, fonts, background stuff, peculiarities of a layout, etc. 
 JavaScript- for Incorporating interactivity. 
 ReactJS-for incorporating data visualization dashboards and dynamic functionalities.
+
+
+# Try this website at
+https://aayushi-das.github.io/Organach-Faisean/
