@@ -12,7 +12,7 @@ The road to sustainable cotton is not easy. The recent developments in the cotto
 # Demo video
 
 
-# Working (How does your idea works?)
+# RoadMap (How does your idea works?)
 * Step 1: Create a Login Page which will ask the user for personal information for our database. 
 * Step 2: Create a Home Page which will briefly explain about our App.
 * Step 3: 4-5 Individual Pages for a specific disease and will contains symptoms, exercises and other treatments. 
@@ -20,15 +20,15 @@ The road to sustainable cotton is not easy. The recent developments in the cotto
 
 
 # Built with
-Tech Stack – 
-Technology – Web Development 
-1.Back-end software tools stack 
+** Tech Stack ** 
+** Technology – Web Development **
+* Back-end software tools stack 
 The back-end tech stack ensures the inner workings of an application and website. 
 Programming languages (JavaScript) 
 Frameworks (NodeJS) 
 Databases (MongoDB and MySQL) 
 Server providers (Netlify) 
-2.Front end stacks 
+* Front end stacks 
 The front-end technology stack is what users see when they interact with our application or site. 
 Tech stack for the front end or client-side of web software includes HTML, CSS, and JavaScript. 
 HTML technology is responsible for the structuring and placement of the data. 
